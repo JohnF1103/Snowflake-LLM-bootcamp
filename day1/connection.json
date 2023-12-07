@@ -2,12 +2,12 @@
   "account"      : "QWB22592" ,
   
   "user"         : "USER0043" ,
-  "password"     : "Chilla1103#" ,
+  "password"     : "Replaced#" ,
   "role"         : "ROLE_USER0043" ,
   "warehouse"    : "WH_XS_USER0043" ,
   "database"     : "DB_USER0043" ,
   "schema"       : "SCHEMA_LLM" ,
   "compute_pool" : "COMPUTE_POOL_USER0043" ,
-  "huggingface_token"   : "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"
+  "huggingface_token"   : "Replaced"
   
   }
